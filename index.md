@@ -1,3 +1,9 @@
+- [English](#privacy-policy-english)
+- [日本語](プライバシーポリシー日本語)
+- [中文繁體](#隐私政策-中文繁體)
+- [中文简体](#隐私政策-中文简体)
+- [한국어](#개인정보-처리-방침-한국어)
+
 # Privacy Policy
 
 # Privacy Policy (English)
